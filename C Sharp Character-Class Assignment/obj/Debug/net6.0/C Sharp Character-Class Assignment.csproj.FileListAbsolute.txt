@@ -1,0 +1,15 @@
+C:\Users\d.zahiroddini\source\repos\C Sharp Character-Class Assignment\C Sharp Character-Class Assignment\bin\Debug\net6.0\C Sharp Character-Class Assignment.exe
+C:\Users\d.zahiroddini\source\repos\C Sharp Character-Class Assignment\C Sharp Character-Class Assignment\bin\Debug\net6.0\C Sharp Character-Class Assignment.deps.json
+C:\Users\d.zahiroddini\source\repos\C Sharp Character-Class Assignment\C Sharp Character-Class Assignment\bin\Debug\net6.0\C Sharp Character-Class Assignment.runtimeconfig.json
+C:\Users\d.zahiroddini\source\repos\C Sharp Character-Class Assignment\C Sharp Character-Class Assignment\bin\Debug\net6.0\C Sharp Character-Class Assignment.dll
+C:\Users\d.zahiroddini\source\repos\C Sharp Character-Class Assignment\C Sharp Character-Class Assignment\bin\Debug\net6.0\ref\C Sharp Character-Class Assignment.dll
+C:\Users\d.zahiroddini\source\repos\C Sharp Character-Class Assignment\C Sharp Character-Class Assignment\bin\Debug\net6.0\C Sharp Character-Class Assignment.pdb
+C:\Users\d.zahiroddini\source\repos\C Sharp Character-Class Assignment\C Sharp Character-Class Assignment\obj\Debug\net6.0\C Sharp Character-Class Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\d.zahiroddini\source\repos\C Sharp Character-Class Assignment\C Sharp Character-Class Assignment\obj\Debug\net6.0\C Sharp Character-Class Assignment.AssemblyInfoInputs.cache
+C:\Users\d.zahiroddini\source\repos\C Sharp Character-Class Assignment\C Sharp Character-Class Assignment\obj\Debug\net6.0\C Sharp Character-Class Assignment.AssemblyInfo.cs
+C:\Users\d.zahiroddini\source\repos\C Sharp Character-Class Assignment\C Sharp Character-Class Assignment\obj\Debug\net6.0\C Sharp Character-Class Assignment.csproj.CoreCompileInputs.cache
+C:\Users\d.zahiroddini\source\repos\C Sharp Character-Class Assignment\C Sharp Character-Class Assignment\obj\Debug\net6.0\C Sharp Character-Class Assignment.dll
+C:\Users\d.zahiroddini\source\repos\C Sharp Character-Class Assignment\C Sharp Character-Class Assignment\obj\Debug\net6.0\ref\C Sharp Character-Class Assignment.dll
+C:\Users\d.zahiroddini\source\repos\C Sharp Character-Class Assignment\C Sharp Character-Class Assignment\obj\Debug\net6.0\C Sharp Character-Class Assignment.pdb
+C:\Users\d.zahiroddini\source\repos\C Sharp Character-Class Assignment\C Sharp Character-Class Assignment\obj\Debug\net6.0\C Sharp Character-Class Assignment.genruntimeconfig.cache
+C:\Users\d.zahiroddini\source\repos\C Sharp Character-Class Assignment\C Sharp Character-Class Assignment\obj\Debug\net6.0\C Sharp Character-Class Assignment.csproj.AssemblyReference.cache
